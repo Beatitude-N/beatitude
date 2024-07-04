@@ -32,7 +32,7 @@ solve real-life problems while putting the users at the heart of all iteration.
 - _busy doing juju 🍀_
   
 - 💬 How to reach me :
-    ##### 📧 [fakeyejoshua2005@gmail.com](mailto:beatitude102@gmail.com)  
+    ##### 📧 [beatitude102@gmail.com](mailto:beatitude102@gmail.com)  
     ##### 🌏 [https://beatitude.netlify.app](https://beatitude.netlify.app)
     ##### 📞 [+2348145983959](tel:+2348145983959)
 
